@@ -1,0 +1,25 @@
+.local_split_hiddenpart {
+    display: none !important;
+}
+.local_split_instructions {
+    font-size: 16px;
+    font-weight: bold;
+}
+.local_split_preview {
+    width: 120px;
+    font-size: 16px;
+    border: black;
+}
+
+body#page-local-split_module-split_module .modal-content {
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+}
+.spanaplit {
+    margin-right: 5px;
+}
+#preview {
+    font-size: 17px;
+}
